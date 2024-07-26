@@ -11,7 +11,7 @@
 
 ## Instructions
 
-- In your index.html
+- In your index.html 
 
 1. Add a label and input box for the title
 2. Add a label and input box for the author
